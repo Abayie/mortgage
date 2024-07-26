@@ -9,7 +9,7 @@ Liked it? Please give a ⭐️ to build this 💪 stronger.
 `Project Goal`: we will perform Data Exploration to discover the main factors affecting applicant’s mortgage loan approval rate using python by asking the right questions.
 
 # 💻 Published on medium
-Please read all the insights from my medium page.
+Please read all the insights from this medium page.
 > [How to improve your chances of getting a Mortgage Loan](https://kuleafenu.medium.com/how-to-improve-your-chances-of-getting-a-mortgage-loan-50df90796c45)
 
 
